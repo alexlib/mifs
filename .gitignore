@@ -71,3 +71,4 @@ target/
 *.pyproj
 *.suo
 *.vs
+uv.lock
